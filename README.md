@@ -1,4 +1,3 @@
 # AIML
 Repo for AIML Projects
-the Repo is Successfully connected
-# EnD
+1. Code Error Dectection
